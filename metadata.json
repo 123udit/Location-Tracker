@@ -1,0 +1,7 @@
+{
+  "name": "Location Tracker",
+  "description": "",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
